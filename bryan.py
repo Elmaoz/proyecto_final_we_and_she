@@ -1,4 +1,5 @@
 from cmu_graphics import *
+
 fabrica=Grupo(
         Rect(0,0,400,120,fill='cianClaro'),
         Rect(0,120,400,280,fill='verdeBosque',borde='verde'),
