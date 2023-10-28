@@ -352,9 +352,6 @@ def enTeclaPresionada(tecla):
          MESAJE.visible=False
          fabrica.visible=True
 
-
-
-
 cmu_graphics.run()
 
 
